@@ -1,0 +1,220 @@
+		#tong{
+			width: 100%;
+			height: 1500px;
+			/*background:  #333;*/
+			position: absolute;
+		}
+		.tren{
+			width: 100%;
+			height: 72px;
+			background: #333;
+			margin: 0px;
+			padding: 0px;	
+			position: relative;	
+		}
+		.tren>.ben_trong{
+			width: 100%;
+			height: 100%;
+			margin: 0px;
+			padding: 0px;
+			position: relative;
+		}
+		.tren>.ben_trong>.khung_chinh{
+			width: 1168px;
+			height: 72px;
+			margin-left: 53px;
+			margin-right: 53px;
+			padding-right: 16px;
+			padding-left: 16px;
+			/*background: black;*/
+			position: relative;
+		}
+		.tren>.ben_trong>.khung_chinh>.mtc{
+			margin-right: 24px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			/*background: aqua;*/
+			z-index: 99;
+			position: relative;
+			float: left;
+		}
+		.khu{
+			width: 86%;
+			height: 100%;
+			/*background: seagreen;*/
+			position: relative;
+			float: left;
+		}
+		.hai{
+			width: 20%;
+			height: 100%;
+			/*background: white;*/
+			margin: 0px;
+			margin-right:200px;
+			padding: 0px;
+			position: relative;
+			float: left;
+		}
+		.theloai{
+			width: 40%;
+			height: 100%;
+			/*background: brown;*/
+			margin: 0px;
+			padding: 0px;
+			position: absolute;
+			float: left;
+		}
+		.bangxephang{
+			width: 60%;
+			height: 100%;
+			/*background: rosybrown;*/
+			margin: 0px;
+			padding: 0px;
+			float: right;
+		}
+		.chu{
+			text-decoration: none;
+			color: #fff;
+		}
+		p{
+			text-align: center;
+			font-size: 18px;
+			color: #fff;
+		}
+		.timkiem{
+			width: 30%;
+			height: 52px;
+			/*background: black;*/
+			float: left;
+			position: relative;
+			padding: 0px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			margin: 0px;
+		}
+		.dangtruyen{
+			width: 15%;
+			height: 72px;
+			/*background: red;*/
+			float: left;
+			position: relative;
+		}
+		.giua{
+			width: 100%;
+			height: 1428px;
+			padding-top: 200px;
+			background: #333;
+			position: absolute;
+
+		}
+		.giuatrong{
+			width: 85%;
+			height: 1228px;
+			margin-right: 100px;
+			margin-left:100px ;
+			padding: 0px;
+			background:  #333;
+			position: relative;
+			z-index: 99;
+			}
+		.giuatrai{
+			width: 68%;
+			height: 1428px;
+			padding: 0px;
+			background:  #333;
+			float: left;
+			text-align: left;
+			padding-left: 1%;
+			padding-right: 1%;
+			border-top-left-radius: 20px;
+			
+		
+		}
+		.giuaphai{
+			width: 30%;
+			height: 100%;
+			background:  #333;
+			float: left;
+			border-top-right-radius: 20px;
+		}
+		.btv{
+			width: 100%;
+			height: 60px;
+			/*background: black;*/
+			position: relative;
+		}
+		.an{
+			text-align: right;
+			font-size: 15px;
+			color: yellow;
+			text-decoration: none;
+			display:none;
+			position: relative;
+			z-index: 99;
+		}
+		.btv:hover a{
+			display: block;
+		}
+	.o{
+		width: 100%;
+		height: 120px;
+		/*background: seagreen;*/
+		position: relative;
+		float: left;
+	}
+	.truyen{
+		width: 48%;
+		height: 110px;
+		/*background: white;*/
+		position: relative;
+		float: left;
+		padding: 5px;
+	}
+	.chutruyen{
+		width: 268.65px;
+		height: 95px;
+		position: relative;
+		float: left;
+		z-index: 99;
+		/*background: yellow;*/
+		padding: 0px;
+		padding-left: 10px;
+		text-align: left;
+		color: #fff;
+	}
+	.xuyentoa:hover {
+		color: f1960900;
+	}
+	.xuyentoa {
+		text-decoration: none;
+		float: left;
+		color: #fff;
+	}
+	.gioithieu{
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		width: 280px;
+		height: 32px;
+		margin: 0px;
+		margin-bottom: 16px;
+		position: relative;
+		float: left;
+	}
+	.tg{
+		width: 200px;
+		height: 20px;
+		/*background: black;*/
+		position: relative;
+		z-index: 99;
+		float: left;
+	}
+	.otren{
+		width: 100%;
+		height: 30%;
+		/*background: blue;*/
+	}
+	.hd{font-size: 15px;
+		color: #fff;
+
+	}
